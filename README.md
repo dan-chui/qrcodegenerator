@@ -1,6 +1,6 @@
 # QR Code Generator
 
-Easy tool to generate a QR Code for Text or a URL.
+Easy tool to generate a QR Code for Text or a Website URL.
 
 
 ## Tech Stack
